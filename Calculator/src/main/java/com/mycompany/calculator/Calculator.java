@@ -44,7 +44,7 @@ public class Calculator {
     }
 
     public static double subtract(double num1, double num2) {
-        // Student Name : Jouf
+        // Student Name: Jouf
         return num1 - num2;
     }
 
